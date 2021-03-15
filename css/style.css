@@ -22,9 +22,24 @@ list-style: none;
 a {
  text-decoration: none;
 }
-body main{
+body{
     background-color: cadetblue;
-    background-image: url('https://data.whicdn.com/images/353839195/original.jpg');
+   background-image:url('https://data.whicdn.com/images/353972719/original.jpg');
+background-repeat:unset;
+background-size: 300px;
 }
+ img{
+     height: 450px;
+ border-radius:1000px;
+ border: 8px solid #f89fb6;
 
+ }
+p{
+    color:rgb(173, 22, 52);
+    font-size: 20px;
+    flex-direction:initial;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   background-color: #f7e0e6;
+   text-align: center;
+}
     
