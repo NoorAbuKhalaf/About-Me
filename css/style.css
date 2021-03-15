@@ -1,0 +1,30 @@
+header{
+    background-color:#e47786;
+}
+header h1 {
+    background-color: #d3516d;
+    margin-inline-start: 0em;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+ul{
+list-style: none;
+}
+ ul li{
+    text-decoration:none;
+    lighting-color: rgb(131, 48, 209);
+    text-align: center;
+    display: inline-grid;
+    padding-right: 4pc;
+ margin-top: 0em;}
+a {
+ text-decoration: none;
+}
+body main{
+    background-color: cadetblue;
+    background-image: url('https://data.whicdn.com/images/353839195/original.jpg');
+}
+
+    
