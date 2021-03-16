@@ -19,6 +19,12 @@ case 'y':
   // eslint-disable-next-line no-case-declarations
   let ans5=prompt('do you know what is my specialist?');
   alert('you answer is '+ans5 + ' , I am a proud biomedical engineer😎');
+  // eslint-disable-next-line no-case-declarations
+  let ans6=prompt('do you know what is my favorite food?');
+  alert('you answer is '+ans6 + ' , My favorite food is shawarma🌯🌯🌯 ');
+  // eslint-disable-next-line no-case-declarations
+  let ans7=prompt('do you know what is my favorite movie series?');
+  alert('you answer is '+ans7 + ' , its X-Men 🎥');
   alert ('here is a fun fact about me :one thing i cannot live without coffee ☕️');
   alert('Take many cups of coffee☕️☕️☕️☕️☕️☕️ ,and if you want to know me peter read about me in this page');
   // alert('if you want to know me peter read about me in this page');
@@ -44,6 +50,12 @@ default:
     // eslint-disable-next-line no-case-declarations
     let ans5=prompt('do you know what is my specialist?');
     alert('you answer is '+ans5 + ' , I am a proud biomedical engineer😎');
+    // eslint-disable-next-line no-case-declarations
+    let ans6=prompt('do you know what is my favorite food?');
+    alert('you answer is '+ans6 + ' , My favorite food is shawarma🌯🌯🌯 ');
+    // eslint-disable-next-line no-case-declarations
+    let ans7=prompt('do you know what is my favorite movie series?');
+    alert('you answer is '+ans7 + ' , its X-Men 🎥');
     alert ('here is a fun fact about me :one thing i cannot live without coffee ☕️');
     alert('Take many cups of coffee☕️☕️☕️☕️☕️☕️ ,and if you want to know me peter read about me in this page');
     // alert('if you want to know me peter read about me in this page');
