@@ -3,7 +3,7 @@ let yourName = prompt('Hey there, whats your name?');
 alert ('welcome '+yourName);
 let ans1 = prompt(yourName+ ' ,are you ready to know me ?');
 
-switch (ans1) {
+switch (ans1.toLowerCase()) {
 case 'yes':
 case 'y':
   alert(ans1 + ' lets go ♥☺');
@@ -30,7 +30,7 @@ default:
   // eslint-disable-next-line no-case-declarations
   let ans2 = prompt(yourName+ ' ,answer withe yes if you change your mined ☺');
 
-  if (ans2==='y'||ans2==='yes'){
+  if (ans2.toLowerCase() ==='y'||ans2==='yes'){
     alert(ans1 + ' lets go ♥☺');
     // eslint-disable-next-line no-case-declarations
     let ans3=prompt('do you know my name?');
